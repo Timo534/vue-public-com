@@ -1,5 +1,10 @@
 # vue-public-com
 
+## Description
+```html
+业务中的公用组件
+```
+
 ## Project setup
 ```
 npm install
